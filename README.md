@@ -34,3 +34,5 @@ This implementation of LipNet is released under the MIT License. Please see the 
 ## Acknowledgments
 
 This implementation is based on the work of Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas. The implementation by Nick Bourdakos was used as a starting point for this repository.
+
+
