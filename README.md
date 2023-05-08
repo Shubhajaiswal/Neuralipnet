@@ -1,5 +1,5 @@
 
-# LipNet
+# NeuraLipNet
 
 LipNet is a deep learning model that can recognize words from the movement of the lips in a video. It is based on a combination of convolutional and recurrent neural networks and was originally proposed in a paper by Yannis M. Assael, Brendan Shillingford, Shimon Whiteson, and Nando de Freitas. 
 
